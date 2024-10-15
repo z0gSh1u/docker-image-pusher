@@ -6,4 +6,5 @@ nikolaik/python-nodejs:python3.10-nodejs20
 --platform=linux/arm64 nikolaik/python-nodejs:python3.10-nodejs20
 secretflow/secretflow-anolis8:1.9.0b0
 --platform=linux/arm64 secretflow/secretflow-anolis8:1.9.0b0
+secretflow/secretnote:1.9.0b0
 --platform=linux/arm64 secretflow/secretnote:1.9.0b0
