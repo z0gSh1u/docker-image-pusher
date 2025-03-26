@@ -16,9 +16,9 @@
 # --platform=linux/arm64 secretflow/secretflow-anolis8:1.9.0b0
 # --platform=linux/arm64 secretflow/secretflow-anolis8:1.10.0b0
 
-# secretflow/secretnote:1.9.0b0
-# --platform=linux/arm64 secretflow/secretnote:1.9.0b0
-secretflow/secretnote:1.10.0b0
---platform=linux/arm64 secretflow/secretnote:1.10.0b0
+secretflow/secretnote:1.9.0b0
+--platform=linux/arm64 secretflow/secretnote:1.9.0b0
+# secretflow/secretnote:1.10.0b0
+# --platform=linux/arm64 secretflow/secretnote:1.10.0b0
 
 # oceanbase/oceanbase-ce:3.1.2
