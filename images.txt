@@ -1,5 +1,5 @@
-redis:6
---platform linux/arm64/v8 redis:6
+# redis:6
+# --platform linux/arm64/v8 redis:6
 # --platform linux/x86_64 mysql:8
 
 # webkul/krayin:2.0.1
@@ -14,8 +14,10 @@ redis:6
 
 # secretflow/secretflow-anolis8:1.9.0b0
 # secretflow/secretflow-anolis8:1.10.0b0
+secretflow/secretflow-anolis8:1.11.0b1
 # --platform=linux/arm64 secretflow/secretflow-anolis8:1.9.0b0
 # --platform=linux/arm64 secretflow/secretflow-anolis8:1.10.0b0
+--platform=linux/arm64 secretflow/secretflow-anolis8:1.11.0b1
 
 # secretflow/secretnote:1.9.0b0
 # --platform=linux/arm64 secretflow/secretnote:1.9.0b0
