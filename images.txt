@@ -1,4 +1,5 @@
 redis:6
+--platform linux/arm64/v8 redis:6
 # --platform linux/x86_64 mysql:8
 
 # webkul/krayin:2.0.1
